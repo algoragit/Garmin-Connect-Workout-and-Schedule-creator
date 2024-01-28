@@ -1,4 +1,5 @@
 # Garmin-Connect-Workout-and-Schedule-creator
+Details: https://www.sydspost.nl/index.php/2023/04/12/3214/
 Create Garmin Connect workouts with a "turbo language" and schedule them.
 
 **Multiple sports**
